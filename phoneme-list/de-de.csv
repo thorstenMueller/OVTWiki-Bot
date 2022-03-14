@@ -1,5 +1,5 @@
 # This phoneme mapping csv file for language 'de-de' is created by Phoneme Bot of OpenVoice-Tech Wiki (https://OpenVoice-Tech.net).
-# Based on revision #2307 of page 'Phoneme list German (de-de)'
+# Based on revision #2309 of page 'Phoneme list German (de-de)'
 # Created automatically on xxx
 # Feel free to improve this list on OpenVoice-Tech Wiki (https://openvoice-tech.net/index.php?title=Phoneme_list_German_%28de-de%29).
 
@@ -10,3 +10,4 @@ timer	temp
 johnson	temp
 liveblog	temp
 facebook	temp
+tmp1	tmp3
