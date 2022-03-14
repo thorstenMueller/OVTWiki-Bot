@@ -1,1 +1,12 @@
-Test2
+# This phoneme mapping csv file for language 'de-de' is created by Phoneme Bot of OpenVoice-Tech Wiki (https://OpenVoice-Tech.net).
+# Based on revision #2307 of page 'Phoneme list German (de-de)'
+# Created automatically on xxx
+# Feel free to improve this list on OpenVoice-Tech Wiki (https://openvoice-tech.net/index.php?title=Phoneme_list_German_%28de-de%29).
+
+mycroft	mˈeɪkɹɒft
+coqui	kˈəʊki
+booten	bˈuːtən
+timer	temp
+johnson	temp
+liveblog	temp
+facebook	temp
