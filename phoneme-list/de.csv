@@ -1,6 +1,6 @@
 # This phoneme mapping csv file for language 'de' is created by Phoneme Bot of OpenVoice-Tech Wiki (https://OpenVoice-Tech.net).
-# Based on revision #2320 of page 'Phoneme list German (de)'
-# Provided automatically on Wed Mar 23 20:39:57 2022 and without any warranty!
+# Based on revision #2322 of page 'Phoneme list German (de)'
+# Provided automatically on Wed Mar 23 20:41:56 2022 and without any warranty!
 # Feel free to improve this list on OpenVoice-Tech Wiki (https://openvoice-tech.net/index.php?title=Phoneme_list_German_%28de%29).
 
 mycroft	maɪkrɔft
@@ -11,3 +11,4 @@ johnson	dʃɔnzən
 liveblog	laɪfblɔk
 facebook	ɛfhɛːzeːbʊk
 monsieur	mɪsiːøː
+reboot	riːbuːt
