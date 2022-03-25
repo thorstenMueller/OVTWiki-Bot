@@ -1,7 +1,8 @@
 # This phoneme mapping csv file for language 'nl' is created by Phoneme Bot of OpenVoice-Tech Wiki (https://OpenVoice-Tech.net).
-# Based on revision #2345 of page 'Phoneme list Dutch (nl)'
-# Provided automatically on Fri Mar 25 19:05:40 2022 and without any warranty!
+# Based on revision #2347 of page 'Phoneme list Dutch (nl)'
+# Provided automatically on Fri Mar 25 19:33:44 2022 and without any warranty!
 # Feel free to improve this list on OpenVoice-Tech Wiki (https://openvoice-tech.net/index.php?title=Phoneme_list_Dutch_%28nl%29).
 
-test	dɛst 
-bla	blɵp 
+test	dɛst
+bla	blɵp
+wört	ʋɔhrt 
