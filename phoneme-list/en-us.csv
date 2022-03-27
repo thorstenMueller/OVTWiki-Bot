@@ -1,12 +1,7 @@
-IyBUaGlzIHBob25lbWUgbWFwcGluZyBjc3YgZmlsZSBmb3IgbGFuZ3VhZ2Ug
-J2VuLXVzJyBpcyBjcmVhdGVkIGJ5IFBob25lbWUgQm90IG9mIE9wZW5Wb2lj
-ZS1UZWNoIFdpa2kgKGh0dHBzOi8vT3BlblZvaWNlLVRlY2gubmV0KS4KIyBC
-YXNlZCBvbiByZXZpc2lvbiAjMjM0OSBvZiBwYWdlICdQaG9uZW1lIGxpc3Qg
-QW1lcmljYW4gRW5nbGlzaCAoZW4tdXMpJwojIFByb3ZpZGVkIGF1dG9tYXRp
-Y2FsbHkgb24gRnJpIE1hciAyNSAxOTozNToxNCAyMDIyIGFuZCB3aXRob3V0
-IGFueSB3YXJyYW50eSEKIyBGZWVsIGZyZWUgdG8gaW1wcm92ZSB0aGlzIGxp
-c3Qgb24gT3BlblZvaWNlLVRlY2ggV2lraSAoaHR0cHM6Ly9vcGVudm9pY2Ut
-dGVjaC5uZXQvaW5kZXgucGhwP3RpdGxlPVBob25lbWVfbGlzdF9BbWVyaWNh
-bl9FbmdsaXNoXyUyOGVuLXVzJTI5KS4KCnJvdzEtY29sMQnJuW/KiiB3yoxu
-a8mRy5BsIHR1y5AgCnJvdzItY29sMQnJuW/KiiB0dcuQa8mRy5BsIHR1y5Ag
-Cg==
+# This phoneme mapping csv file for language 'en-us' is created by Phoneme Bot of OpenVoice-Tech Wiki (https://OpenVoice-Tech.net).
+# Based on revision #2349 of page 'Phoneme list American English (en-us)'
+# Provided automatically on Sun Mar 27 13:56:53 2022 and without any warranty!
+# Feel free to improve this list on OpenVoice-Tech Wiki (https://openvoice-tech.net/index.php?title=Phoneme_list_American_English_%28en-us%29).
+
+row1-col1	ɹoʊ wʌnkɑːl tuː
+row2-col1	ɹoʊ tuːkɑːl tuː
