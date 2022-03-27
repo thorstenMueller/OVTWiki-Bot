@@ -1,10 +1,8 @@
-IyBUaGlzIHBob25lbWUgbWFwcGluZyBjc3YgZmlsZSBmb3IgbGFuZ3VhZ2Ug
-J25sJyBpcyBjcmVhdGVkIGJ5IFBob25lbWUgQm90IG9mIE9wZW5Wb2ljZS1U
-ZWNoIFdpa2kgKGh0dHBzOi8vT3BlblZvaWNlLVRlY2gubmV0KS4KIyBCYXNl
-ZCBvbiByZXZpc2lvbiAjMjM0NyBvZiBwYWdlICdQaG9uZW1lIGxpc3QgRHV0
-Y2ggKG5sKScKIyBQcm92aWRlZCBhdXRvbWF0aWNhbGx5IG9uIEZyaSBNYXIg
-MjUgMTk6MzM6NDQgMjAyMiBhbmQgd2l0aG91dCBhbnkgd2FycmFudHkhCiMg
-RmVlbCBmcmVlIHRvIGltcHJvdmUgdGhpcyBsaXN0IG9uIE9wZW5Wb2ljZS1U
-ZWNoIFdpa2kgKGh0dHBzOi8vb3BlbnZvaWNlLXRlY2gubmV0L2luZGV4LnBo
-cD90aXRsZT1QaG9uZW1lX2xpc3RfRHV0Y2hfJTI4bmwlMjkpLgoKdGVzdAlk
-yZtzdApibGEJYmzJtXAKd8O2cnQJyovJlGhydCAK
+# This phoneme mapping csv file for language 'nl' is created by Phoneme Bot of OpenVoice-Tech Wiki (https://OpenVoice-Tech.net).
+# Based on revision #2347 of page 'Phoneme list Dutch (nl)'
+# Provided automatically on Sun Mar 27 13:56:55 2022 and without any warranty!
+# Feel free to improve this list on OpenVoice-Tech Wiki (https://openvoice-tech.net/index.php?title=Phoneme_list_Dutch_%28nl%29).
+
+test	dɛst
+bla	blɵp
+wört	ʋɔhrt
